@@ -22,4 +22,4 @@ Two player dice game. Was a part of Javascript course by Jonas Schmettdman.
    ![](https://github.com/Sushant-Mittal/pig-game/blob/main/screenshot-127.0.0.1_5500-2024.09.16-21_18_30.png)
 
 
-Link for playing the game : [here]()
+Link for playing the game : [here](https://sushant-mittal.github.io/pig-game/)
